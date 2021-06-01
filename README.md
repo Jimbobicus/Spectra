@@ -1,0 +1,2 @@
+# Spectra
+Streaming AVX raytracer
